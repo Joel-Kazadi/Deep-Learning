@@ -1,2 +1,2 @@
 # Deep-Learning
-This introductory guide to Deep Learning focuses on the fundamental concepts of artificial neural networks. Special emphasis is also laid to the Tensorflow library and its role in training deep neural networks.
+This introductory guide to Deep Learning focuses on the fundamental concepts of artificial neural networks. It addresses the vectorization of the fundamental equations of neural networks, describes in detail the gradient descent algorithm, and tackles the programming of models in Python. Special emphasis is also laid to the Tensorflow library and its role in training deep neural networks.
